@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699287386 source:f:\problem solving\ps sheet2\menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<C:\Program Files\CodeBlocks\MinGW\include\MyLibrary.h>
+

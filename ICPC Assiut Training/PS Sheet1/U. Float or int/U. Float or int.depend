@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1699213683 source:f:\ps sheet1\u. float or int\main.cpp
+	<iostream>
+
+1699213908 source:f:\problem solving\ps sheet1\u. float or int\main.cpp
+	<iostream>
+	<math.h>
+

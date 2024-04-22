@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699804232 source:f:\problem solving\ps sheet2\g. factorial\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+

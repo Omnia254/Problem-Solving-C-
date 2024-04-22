@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1704572969 source:f:\problem solving\ps sheet2\i. palindrome\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	<iostream>
+
